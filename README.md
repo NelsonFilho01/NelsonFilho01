@@ -1,7 +1,7 @@
  ![Banner](https://media.licdn.com/dms/image/D4D16AQEzAmpO2TB9ow/profile-displaybackgroundimage-shrink_350_1400/0/1704985185421?e=1725494400&v=beta&t=ECJNZovNMqqmwekDNb0-untghClfNZg9LLOfO01hMqI)
 
 # Olá!! Meu nome é Nelson Filho e esse é meu Git Hub 
-#### Tenho muita vontade de aprender e colaborar, por favor entrar em contato comigo pelo [Discord](707269058063499275)
+#### Tenho muita vontade de aprender e colaborar, por favor entrar em contato comigo pelo meu [Servidor de Contato] (https://discord.gg/pJWCXfBu) 
 
 #### Atualmente estou empenhado em
 
