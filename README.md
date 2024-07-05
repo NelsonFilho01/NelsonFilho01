@@ -1,8 +1,10 @@
-# Olá esse é meu Git Hub 👋
+ ![Banner](https://media.licdn.com/dms/image/D4D16AQEzAmpO2TB9ow/profile-displaybackgroundimage-shrink_350_1400/0/1704985185421?e=1725494400&v=beta&t=ECJNZovNMqqmwekDNb0-untghClfNZg9LLOfO01hMqI)
+
+# Olá!! Meu nome é Nelson Filho e esse é meu Git Hub 
 
 ### Fique a vontade pra usar o clietne Multi CLoud do Rclone de resto são projeto para adquerir algumas skills
 
-#### 🌱 Atualmente estou aprendendo 
+#### 🌱 Atualmente estou empenhado
 
 - **Java  Spring 🌷**
 - **C/C++ 👾**
