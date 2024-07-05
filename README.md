@@ -2,7 +2,7 @@
 
 # Olá!! Meu nome é Nelson Filho e esse é meu Git Hub 
 
-### Fique a vontade pra usar o clietne Multi CLoud do Rclone de resto são projeto para adquerir algumas skills
+### Fique a vontade pra usar o cliente Multi CLoud para Rclone de resto são projeto para adquerir algumas skills
 
 #### 🌱 Atualmente estou empenhado
 
