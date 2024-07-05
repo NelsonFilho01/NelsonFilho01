@@ -3,7 +3,7 @@
 # Olá!! Meu nome é Nelson Filho e esse é meu Git Hub 
 #### Tenho muita vontade de aprender e colaborar, por favor entrar em contato comigo pelo meu [Servidor de Contato](https://discord.gg/pJWCXfBu) 
 
-#### Atualmente estou empenhado em
+#### 🧑‍💻 Atualmente estou empenhado em 🧑‍💻
 
 - **Java ☕  Spring 🌷**
 - **C/C++ 👾**
