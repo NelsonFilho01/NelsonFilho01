@@ -2,7 +2,7 @@
 
 ### Fique a vontade pra usar o clietne Multi CLoud do Rclone de resto são projeto para adquerir algumas skills
 
-
+- 🌱 Atualmente estou aprendendo **Java, Spring Boot, e Microserviços**
 
 
 
