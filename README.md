@@ -1,17 +1,12 @@
- ![Banner](https://media.licdn.com/dms/image/D4D16AQEzAmpO2TB9ow/profile-displaybackgroundimage-shrink_350_1400/0/1704985185421?e=1725494400&v=beta&t=ECJNZovNMqqmwekDNb0-untghClfNZg9LLOfO01hMqI)
-
 # Olá!! Meu nome é Nelson Filho e esse é meu Git Hub 
+
+ ![Banner](https://media.licdn.com/dms/image/D4D16AQEzAmpO2TB9ow/profile-displaybackgroundimage-shrink_350_1400/0/1704985185421?e=1725494400&v=beta&t=ECJNZovNMqqmwekDNb0-untghClfNZg9LLOfO01hMqI)
 
 #### 🧑‍💻 Atualmente estou empenhado em 🧑‍💻
 
 - **Java ☕  Spring 🌷**
 - **C/C++ 👾**
 - **DevOps 🐧🏗️**
-
-
-##### Fique a vontade pra usar o [Cliente Multi Cloud](https://github.com/nelsonFilho22222/gDrive-Rclone.git), agora quase que funcionando para Windows
-
-
 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
