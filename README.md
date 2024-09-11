@@ -1,6 +1,6 @@
 # Olá!! Meu nome é Nelson Filho e esse é meu Git Hub 
 
- ![Banner](https://media.licdn.com/dms/image/D4D16AQEzAmpO2TB9ow/profile-displaybackgroundimage-shrink_350_1400/0/1704985185421?e=1725494400&v=beta&t=ECJNZovNMqqmwekDNb0-untghClfNZg9LLOfO01hMqI)
+ ![Banner](https://media.licdn.com/dms/image/v2/D4D16AQEzAmpO2TB9ow/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1704985185421?e=1731542400&v=beta&t=kvkgKnCuWOYdvXMTPFDBh8rrue7CiNQZhk3iI400Eh0)
 
 #### 🧑‍💻 Atualmente estou empenhado em 🧑‍💻
 
