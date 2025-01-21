@@ -1,11 +1,11 @@
 # Olá!! Meu nome é Nelson Filho e esse é meu Git Hub 
 
 <div  align="center"">
-  <img src="https://github-readme-stats.vercel.app/api?username=NelsonFilho01&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="350" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NelsonFilho01&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="300" alt="stats graph" />
 </div>
 
 <div  align="center"">
-  <img src="https://github-readme-stats.vercel.app/top-langs/api?username=NelsonFilho01&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="350" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonFilho01&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="350" alt="stats graph" />
 </div>
 
 
