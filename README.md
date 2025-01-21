@@ -2,6 +2,11 @@
 
  ![Banner](https://media.licdn.com/dms/image/v2/D4D16AQEzAmpO2TB9ow/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1704985185421?e=1738195200&v=beta&t=Fsk1fQPAQnJ9ofyurQhrTmWluolS3-ww60PDXAVnmM8)
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NelsonFilho01l&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+</div>
+
 #### 🧑‍💻 Atualmente estou empenhado em 🧑‍💻
 
 - **Java ☕  Spring 🌷**
