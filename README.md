@@ -1,7 +1,10 @@
 # Olá!! Meu nome é Nelson Filho e esse é meu Git Hub 
 
+<div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonFilho01&layout=compact&theme=dracula&hide=c&hide_border=false" height="350" />
 
+</div>
 
 <div align="center">
 
