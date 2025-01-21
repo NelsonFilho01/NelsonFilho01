@@ -1,8 +1,7 @@
 # Olá!! Meu nome é Nelson Filho e esse é meu Git Hub 
 
-<div  align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NelsonFilho01&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=false" height="250" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=NelsonFilho01&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=false" height="250" />
+
 
 <div  align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonFilho01&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="450" alt="stats graph" />
